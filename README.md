@@ -1,11 +1,17 @@
-# Portfolio-App
+
+<h1 align="center"><b>Portfolio App</b></h1>
+
+
+<h1 align="center"><b>
+
+  ![portfolioReact](https://github.com/thebarunkumar/Portfolio-App/assets/77458180/9c0c31bc-4e09-4f5e-9ab1-481676f13500)
+
+</b></h1>
 
 ## Portfolio App Overview
 
 This React-based portfolio is a comprehensive representation of my skills, projects, and ways to get in touch with me. Here's a breakdown of its key sections:
 
-
-  ![portfolioReact](https://github.com/thebarunkumar/Portfolio-App/assets/77458180/9c0c31bc-4e09-4f5e-9ab1-481676f13500)
 
 ### Header
 The header introduces visitors to the site, displaying my name, profession, and a brief greeting. It also offers quick access to downloading my CV and contacting me.
