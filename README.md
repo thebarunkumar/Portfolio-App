@@ -6,8 +6,14 @@
 
 </b></h1>
 
-## Portfolio App Overview
+## Tech Stack:
+The app is built using a range of technologies:
+- **Frontend:** React, HTML, CSS, JavaScript
+- **State Management:** React Hooks (useState)
+- **Styling:** CSS Modules and/or CSS-in-JS (styled-components or similar)
+- **External Libraries/Tools:** React Icons for icons, EmailJS for handling email sending functionality
 
+## Portfolio App Overview
 This React-based portfolio is a comprehensive representation of my skills, projects, and ways to get in touch with me. Here's a breakdown of its key sections:
 
 
@@ -34,7 +40,6 @@ The footer contains links to essential sections of the portfolio and includes a 
 
 ### Components Structure
 The app is structured using various components such as Hero, Header, Navbar, About, Skill, Project, Contact, and Footer. Each component serves a specific purpose in displaying information or enabling functionality within the app.
-
 
 This portfolio app offers a concise and structured way for visitors to explore my background, skills, and projects, while also providing convenient means to connect with me. Feel free to explore the live version to get a better understanding of the app's functionality and design.
 
